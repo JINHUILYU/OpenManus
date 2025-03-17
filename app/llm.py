@@ -28,7 +28,7 @@ from app.schema import (
 )
 
 
-REASONING_MODELS = ["o1", "o3-mini"]
+REASONING_MODELS = ["r1", "o1", "o3-mini"]
 
 
 class LLM:
